@@ -1,16 +1,16 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Daniel's Dev Banner" src="dark.svg" width="100%">
+</picture>
 
-<!--
-**danielvitorrodriguess429-hub/danielvitorrodriguess429-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 🚀
 
-Here are some ideas to get you started:
+Olá! Sou o Daniel. Sou desenvolvedor com foco em criação de software, automação de processos e suporte técnico. Gosto de resolver problemas complexos com código eficiente e simplificar tarefas do dia a dia através da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades & Tecnologias
+
+* **Linguagens de Programação:** Java, JavaScript, TypeScript, Python, C e C++
+* **Especialidades:** Desenvolvimento de software, automação de tarefas e scripts, suporte de sistemas e resolução de problemas técnicos.
+
+---
