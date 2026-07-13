@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Daniel's Dev Banner" src="dark.svg" width="100%">
-</picture>
+<a href="https://github.com/danielvitorrodriguess429-hub">
+  <img src="dark.svg" alt="Daniel's Dev Banner" width="100%">
+</a>
 
 ## Sobre Mim 🚀
 
