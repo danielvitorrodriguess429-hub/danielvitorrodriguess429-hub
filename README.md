@@ -10,7 +10,7 @@ Olá! Sou o Daniel. Sou desenvolvedor com foco em criação de software, automa�
 
 ### 🛠️ Habilidades & Tecnologias
 
-* **Linguagens de Programação:** Java, JavaScript, TypeScript, Python, C e C++
+* **Linguagens de Programação:** Java, JavaScript, TypeScript, Python, SQL e C++
 * **Especialidades:** Desenvolvimento de software, automação de tarefas e scripts, suporte de sistemas e resolução de problemas técnicos.
 
 ---
